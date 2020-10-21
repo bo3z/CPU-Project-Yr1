@@ -20,6 +20,7 @@ The main goal of this project was to build a general-purpose CPU, capable of per
   6. The CPU must be pipelined to improve performance
   7. The CPU dynamic power consumption should not be above 50 mW
   8. The maximum clock frequency should be at least 100 MHz at 0 degrees Celsius
+  9.	The CPU must have at least four registers to enable work with more data concurrently. Preferably eight, if instruction length allows.
 
 
 ### CPU Testing:
