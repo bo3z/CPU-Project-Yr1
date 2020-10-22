@@ -11,7 +11,7 @@ The main goal of this project was to build a general-purpose CPU, capable of per
   * [Video demonstration of the project](https://github.com/bo3z/CPU-Project-Yr1/blob/main/Video%20Demonstration.mp4)
   * [Instruction set documentation](https://github.com/bo3z/CPU-Project-Yr1/blob/main/Instruction%20Set.pdf)
   * [CPU block diagram](https://github.com/bo3z/CPU-Project-Yr1/blob/main/diagrams/cpu.png)
-  * CPU source files
+  * [CPU source files](https://github.com/bo3z/CPU-Project-Yr1/tree/main/cpu)
   
   
 ### Technologies used:
