@@ -5,13 +5,22 @@ A repo containing the source code and documentation for a general-purpose, ARM-b
 ### Project description
 The main goal of this project was to build a general-purpose CPU, capable of performing a wide range of operations including arithmetic operations such as addition, subtraction and multiplication; logic operations such as bitwise operations and conditionals; memory operations such as load and store. The CPU should be tested with a wide range of mathematical functions and programming algorithms, including but not limited to calculating a Fibonacci number, generating pseudo-random numbers, and traversing a linked list. The CPU is expected to complete these operations efficiently and correctly, using only built-in hardware and instructions.
 
+
+### Quick links
+  * [Full project documentation, including design choices, implementation and planning](https://github.com/bo3z/CPU-Project-Yr1/blob/main/Report.pdf)
+  * [Video demonstration of the project](https://github.com/bo3z/CPU-Project-Yr1/blob/main/Video%20Demonstration.mp4)
+  * [Instruction set documentation](https://github.com/bo3z/CPU-Project-Yr1/blob/main/Instruction%20Set.pdf)
+  * [CPU block diagram](https://github.com/bo3z/CPU-Project-Yr1/blob/main/diagrams/cpu.png)
+  * CPU source files
+  
+  
 ### Technologies used:
   * Quartus Prime, used for block schematics and testing
   * Verilog HDL, used for multiplication and ALU
   * C++, for writing benchmark tests and automating testing
   
   
-### CPU Technical requirements
+### CPU Technical requirements:
   1. 16-bit instruction length
   2. The CPU should be able to perform a wide range of arithmetic-logic operations.
   3. Efficient multiplication must be built-into the CPU
